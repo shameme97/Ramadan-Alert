@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ramadan Alert</string>
+    <string name="button">Button</string>
+    <string name="proceed">Proceed</string>
+    <string name="ramadan_alert" />
+    <string name="ramadan_alert1">Ramadan Alert</string>
+    <string name="surah">Surah</string>
+    <string name="features">Features</string>
+    <string name="check_prayer_times">Check prayer times</string>
+    <string name="textview">TextView</string>
+    <string name="ramadan_schedule">Ramadan Schedule</string>
+    <string name="fajr">Fajr:</string>
+</resources>
